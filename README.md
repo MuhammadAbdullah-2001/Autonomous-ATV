@@ -15,8 +15,7 @@ This thesis presents the design and development of an autonomous Unmanned Ground
 *Fig.2*
 
 ### 🎥 Demo & Test Videos
-- [▶️ Watch “Video 1”](videos/video1.mp4)
-
+- [▶️ Watch “Video 1”](videos/Video1.mp4)
 
 
 

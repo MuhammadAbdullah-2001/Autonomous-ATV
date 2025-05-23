@@ -15,19 +15,8 @@ This thesis presents the design and development of an autonomous Unmanned Ground
 *Fig.2*
 
 ### 🎥 Demo & Test Videos
+- [▶️ Watch “Video 1”](videos/video1.mp4)
 
-<!-- HTML5 video embeds work on GitHub -->
-<video width="640" controls>
-  <source src="videos/Auto Testing.mp4" type="video/mp4">
-  Your browser doesn’t support embedded video.
-</video>
-<p><em>Video 1 – Offboard control test on rough terrain.</em></p>
-
-<video width="640" controls>
-  <source src="videos/Video1.mp4" type="video/mp4">
-  Your browser doesn’t support embedded video.
-</video>
-<p><em>Video 2 – SITL-Gazebo pure pursuit demonstration.</em></p>
 
 
 
